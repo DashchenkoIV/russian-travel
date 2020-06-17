@@ -1,0 +1,23 @@
+.section-subtitle_place_cover {
+  max-width: 360px;
+  max-height: 66px;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 22px;
+  text-align: center;
+  z-index: 3;
+  margin-top: 32px;
+}
+
+@media screen and (max-width: 767px) {
+  .section-subtitle_place_cover {
+    max-width: 288px;
+    max-height: 48px;
+    margin-top: 16px;
+    font-size: 32px;
+    line-height: 35px;
+    font-size: 14px;
+    line-height: 16px;
+  }
+}

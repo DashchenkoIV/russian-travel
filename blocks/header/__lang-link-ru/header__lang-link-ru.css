@@ -1,0 +1,18 @@
+@import url(./lang-link-ru/lang-link-ru.css);
+
+.header__lang-link-ru {
+  max-width: 30px;
+  max-height: 28px;
+  margin: 18px 0 6px;
+  position: absolute;
+  right: 47px;
+}
+
+@media screen and (max-width: 767px) {
+  .header__lang-link-ru {
+    max-width: 22px;
+    max-height: 24px;
+    margin: 14px 0 4px;
+    right: 40px;
+  }
+}

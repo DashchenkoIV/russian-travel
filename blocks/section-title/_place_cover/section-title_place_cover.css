@@ -1,0 +1,18 @@
+.section-title_place_cover {
+  max-width: 560px;
+  max-height: 152px;
+  font-weight: 900;
+  font-size: 72px;
+  line-height: 76px;
+  text-align: center;
+  z-index: 3;
+}
+
+@media screen and (max-width: 767px) {
+  .section-title_place_cover {
+    max-width: 288px;
+    max-height: 70px;
+    font-size: 32px;
+    line-height: 35px;
+  }
+}
