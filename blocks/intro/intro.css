@@ -4,7 +4,6 @@
 
 .intro {
   max-width: 690px;
-  max-height: 428px;
   margin-left: 148px;
 }
 
@@ -24,7 +23,6 @@
 @media screen and (max-width: 767px) {
   .intro {
     max-width: 288px;
-    max-height: 752px;
     margin-left: 16px;
   }
 }

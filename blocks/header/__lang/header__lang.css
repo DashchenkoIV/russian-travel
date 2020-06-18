@@ -1,0 +1,15 @@
+.header__lang {
+  max-width: 30px;
+  margin-left: 18px;
+}
+
+.header__lang:nth-child(1) {
+  margin-left: 0;
+  text-decoration-line: underline;
+}
+
+@media screen and (max-width: 767px) {
+  .header__lang {
+    max-width: 22px;
+  }
+}

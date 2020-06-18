@@ -1,7 +1,6 @@
 .cover__link {
   position: relative;
   max-width: 1184px;
-  max-height: 740px;
   display: flex;
   flex-direction: column;
   z-index: 1;
@@ -33,7 +32,6 @@
 @media screen and (max-width: 1279px) {
   .cover__link {
     max-width: 1024px;
-    max-height: 640px;
     padding-top: 195px;
   }
   .cover__link::after{
@@ -44,7 +42,6 @@
 @media screen and (max-width: 1023px) {
   .cover__link {
     max-width: 768px;
-    max-height: 480px;
     padding-top: 115px;
   }
   .cover__link::after{
@@ -55,7 +52,6 @@
 @media screen and (max-width: 767px) {
   .cover__link {
     max-width: 320px;
-    max-height: 200px;
     padding-top: 33px;
   }
   .cover__link::after{

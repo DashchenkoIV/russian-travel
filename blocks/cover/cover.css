@@ -5,7 +5,7 @@
   max-width: 1184px;
   height: 740px;
   z-index: 0;
-  background: url(./__image/cover-trains.jpg) no-repeat;
+  background: url(../../images/cover-trains.jpg) no-repeat;
   background-size: cover;
   background-position: center center;
 }
