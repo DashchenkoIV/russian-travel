@@ -1,11 +1,12 @@
+@import url(./_active/header__lang_active.css);
+
 .header__lang {
   max-width: 30px;
   margin-left: 18px;
 }
 
-.header__lang:nth-child(1) {
+.header__lang:first-of-type {
   margin-left: 0;
-  text-decoration-line: underline;
 }
 
 @media screen and (max-width: 767px) {

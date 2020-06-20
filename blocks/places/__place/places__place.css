@@ -1,9 +1,4 @@
-@import url(./__website/place__website.css);
-@import url(./__photo/place__photo.css);
-@import url(./__paragraphes/place__paragraphes.css);
-@import url(./__paragraph/place__paragraph.css);
-
-.place {
+.places__place {
   display: grid;
   max-width: 984x;
   grid-template-columns: 460px 1fr;
@@ -13,7 +8,7 @@
 }
 
 @media screen and (max-width: 1279px) {
-  .place {
+  .places__place {
     max-width: 928px;
     grid-template-columns: 440px 1fr;
     grid-column-gap: 32px;
@@ -21,7 +16,7 @@
 }
 
 @media screen and (max-width: 1023px) {
-  .place {
+  .places__place {
     max-width: 720px;
     grid-template-columns: 340px 1fr;
     grid-column-gap: 28px;
@@ -29,7 +24,7 @@
 }
 
 @media screen and (max-width: 767px) {
-  .place {
+  .places__place {
     grid-template-columns: 320px;
     grid-row-gap: 32px;
   }

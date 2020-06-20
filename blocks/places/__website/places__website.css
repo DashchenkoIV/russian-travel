@@ -1,19 +1,17 @@
-@import url(./_url-heading/places__website_url-heading.css);
-
-.place__website {
+.places__website {
   max-width: 456px;
   align-self: end;
   width: 352px;
 }
 
 @media screen and (max-width: 1023px) {
-  .place__website {
+  .places__website {
     max-width: 352px;
   }
 }
 
 @media screen and (max-width: 767px) {
-  .place__website {
+  .places__website {
     display: none;
   }
 }

@@ -1,3 +1,5 @@
+@import url(./__card/photo-grid__card.css);
+
 .photo-grid {
   max-width: 1184px;
   display: grid;

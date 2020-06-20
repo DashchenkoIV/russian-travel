@@ -1,7 +1,3 @@
-@import url(./_place_header/link_place_header.css);
-@import url(./_place_footer/link_place_footer.css);
-@import url(./_place_places/link_place_places.css);
-
 .link {
   transition: opacity linear .3s;
 }

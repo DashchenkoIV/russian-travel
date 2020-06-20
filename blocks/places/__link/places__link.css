@@ -1,4 +1,4 @@
-.link_place_places {
+.places__link {
   max-width: 456px;
   font-style: normal;
   font-weight: normal;
@@ -9,7 +9,7 @@
 }
 
 @media screen and (max-width: 1023px) {
-  .link_place_places {
+  .places__link {
     max-width: 352px;
   }
 }
