@@ -1,5 +1,5 @@
-@import url(./_place_lead/section-subtitle_place_lead.css);
-@import url(./_place_cover/section-subtitle_place_cover.css);
+@import url(./place/section-subtitle_place_cover.css);
+@import url(./place/section-subtitle_place_lead.css);
 
 .section-subtitle {
   color: #FFFFFF;

@@ -1,7 +1,7 @@
-@import url(./_place_lead/section-title_place_lead.css);
-@import url(./_place_intro/section-title_place_intro.css);
-@import url(./_place_places/section-title_place_places.css);
-@import url(./_place_cover/section-title_place_cover.css);
+@import url(./place/section-title_place_cover.css);
+@import url(./place/section-title_place_intro.css);
+@import url(./place/section-title_place_lead.css);
+@import url(./place/section-title_place_places.css);
 
 .section-title {
   color: #FFFFFF;
